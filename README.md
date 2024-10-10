@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
@@ -65,10 +66,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
