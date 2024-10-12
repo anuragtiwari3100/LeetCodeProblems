@@ -17,16 +17,16 @@ class Solution {
        int n = s.length();
         int ans =0;
         int v1,v2;
-        for(int i=0; i<n; i++){
+        for(int i=0; i<n; i++){   //traversing over string
             v1=calculate(s.charAt(i));
-            if(i<n-1){
+            if(i<n-1){  //verifying for further value exist or  not 
                 v2=calculate(s.charAt(i+1));
                 if(v1<v2){
                     ans -=v1;
                 }else{
                     ans +=v1;
                 }
-            }else{
+            }else{    //nothing is there to compare so  just add it
                 ans +=v1;
             }
         }
