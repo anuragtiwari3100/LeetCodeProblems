@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
 |  |
 | ------- |
@@ -59,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
 | ------- |
@@ -86,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
