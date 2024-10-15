@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
