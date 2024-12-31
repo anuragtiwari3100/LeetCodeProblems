@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [1013-fibonacci-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1013-fibonacci-number) |
+| [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 ## Greedy
 |  |
 | ------- |
