@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 ## Greedy
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
