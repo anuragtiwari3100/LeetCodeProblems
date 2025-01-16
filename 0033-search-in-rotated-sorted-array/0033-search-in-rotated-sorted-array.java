@@ -17,7 +17,7 @@ class Solution {
          }else{   //right part  is sorted
               if(arr[mid]<=arr[ei]){
                 if(arr[mid]<=tar &&  tar<=arr[ei]){
-                    si =si+1;
+                    si =mid+1;
                 }else{
                     ei= mid-1;
                 }
