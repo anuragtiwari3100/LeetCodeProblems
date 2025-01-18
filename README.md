@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/3195-separate-black-and-white-balls) |
