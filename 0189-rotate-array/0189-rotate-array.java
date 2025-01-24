@@ -25,6 +25,7 @@ class Solution {
             arr[i] = arr[j];
             arr[j] = temp;
         }
+        
  */
    while(si<=ei){
     int temp = arr[si];
@@ -34,6 +35,7 @@ class Solution {
       ei--;
    }
     }
+    
 
     
 
