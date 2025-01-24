@@ -37,7 +37,7 @@ class Solution {
 
     
 
-    public void rotate(int[] nums, int k) {
+    public void rotate(int[] nums, int k) { //k~rotate by 
         int n = nums.length;
         k = k % n;
         rev(nums, 0, n - 1);
