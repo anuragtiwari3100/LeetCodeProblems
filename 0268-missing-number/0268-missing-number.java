@@ -1,18 +1,23 @@
 class Solution {
-   public static  int missingNumber(int[] nums) {
-        int  N = nums.length+1;
-        for(int i=0; i<=N; i++){
-         int flag =0;
-         for(int j=0; j<=nums.length-1; j++){
-             if(nums[j] == i){
-                 flag =1;
-                 break;
-             }
-         }
-         if(flag == 0){
-            return i; 
-         }
+
+
+
+
+      public static int missingNumber(int arr[]) {   //TC => O(n) && SC = O(1)
+        int N = arr.length;    //  we know size  will currSize+1
+        int sum = (N * (N + 1)) / 2;
+        int tempSum = 0;
+        for (int i = 0; i < arr.length; i++) {
+            tempSum += arr[i];
         }
-        return -1;
-     }
+        return sum - tempSum;
+    }
+
+
+
+
 }
+
+
+
+
