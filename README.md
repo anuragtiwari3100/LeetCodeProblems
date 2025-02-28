@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
