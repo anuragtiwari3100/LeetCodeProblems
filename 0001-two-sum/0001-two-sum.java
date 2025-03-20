@@ -13,8 +13,8 @@ class Solution {
                                 return new int[]{-1,-1};
                         }
  */
-/*
-                        public static int []  twoSum(int arr[], int target){
+/*   brute
+              public static int []  twoSum(int arr[], int target){
                         int res[] = new int[2];
                         res[0] =-1;
                         res[1] =-1;
@@ -33,6 +33,7 @@ class Solution {
  */
 
 
+     /* //brute
           public int[] twoSum(int[] nums, int target) {
           
             for(int i=0; i<nums.length; i++){
@@ -47,9 +48,10 @@ class Solution {
             }
             return new int[]{-1,-1};
     }
+      */
  
-
- public int[] twoSum3(int[] nums, int target) {
+  //optimal
+ public int[] twoSum(int[] nums, int target) {
   HashMap<Integer,Integer> map = new HashMap<>();
   int  resArr[]= new int[2];
     resArr[0]=resArr[1] = -1;
