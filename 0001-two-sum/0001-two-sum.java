@@ -32,8 +32,8 @@ class Solution {
                         }
  */
 
-/*
-          public int[] twoSum1(int[] nums, int target) {
+
+          public int[] twoSum(int[] nums, int target) {
           
             for(int i=0; i<nums.length; i++){
                 for(int j=0; j<nums.length; j++){
@@ -47,9 +47,9 @@ class Solution {
             }
             return new int[]{-1,-1};
     }
- */
+ 
 
- public int[] twoSum(int[] nums, int target) {
+ public int[] twoSum3(int[] nums, int target) {
   HashMap<Integer,Integer> map = new HashMap<>();
   int  resArr[]= new int[2];
     resArr[0]=resArr[1] = -1;
