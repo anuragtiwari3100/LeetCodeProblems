@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0283-move-zeroes) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
