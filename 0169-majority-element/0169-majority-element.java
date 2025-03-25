@@ -6,7 +6,7 @@ class Solution {
         }
         int maxFreq =0;
         int maxFreqElement = -1;
-        for(HashMap.Entry<Integer,Integer> entry :map.entrySet()){
+    for(HashMap.Entry<Integer,Integer> entry :map.entrySet()){
            if(entry.getValue()>maxFreq){
             maxFreq =entry.getValue();
         maxFreqElement=entry.getKey();
