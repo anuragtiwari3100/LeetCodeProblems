@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
