@@ -40,7 +40,7 @@ class Solution {
         ans = nums[i];
     }
     if(freq > nums.length/2){
-        return nums[i];
+        return ans;
     }
    }
 
