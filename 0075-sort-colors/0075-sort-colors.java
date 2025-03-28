@@ -34,7 +34,7 @@ class Solution {
                                         nums[k]=2;
                                     }
  */
-
+         // Dutch National Flag Algorithm
    int low =0, mid =0, high=nums.length-1;
      while(mid <=high){
         if(nums[mid] == 0){
@@ -47,7 +47,6 @@ class Solution {
         }else{
             swap(nums,mid,high);
             high--;
-       
         }
      }
 
