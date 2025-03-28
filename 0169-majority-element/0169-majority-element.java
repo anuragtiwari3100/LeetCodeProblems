@@ -62,6 +62,16 @@ return nums[0];
                 freq --;
             }
           }
-          return ans;
+
+          int cnt =0;
+          for(int val:nums){
+            if(val == ans){
+                cnt ++;
+            }
+          }
+            if(cnt > nums.length/2) {
+                return ans;
+            }
+   return -1;
     }
 }
