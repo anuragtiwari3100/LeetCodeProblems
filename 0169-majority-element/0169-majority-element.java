@@ -1,6 +1,6 @@
 class Solution {
     public int majorityElement(int[] nums) {
-/**
+/**     //App1
           HashMap<Integer,Integer> map = new HashMap<>();
         for(int val :nums){
             map.put(val,map.getOrDefault(val,0)+1);
@@ -15,17 +15,35 @@ class Solution {
         }
         return maxFreqElement; 
  */
- for(int i=0; i<nums.length; i++){
-    int freqCount =0;
-    for(int j=0; j<nums.length; j++){
-        if(nums[i] == nums[j]){
-           freqCount++; 
+        /**  App2
+            for(int i=0; i<nums.length; i++){
+        int freqCount =0;
+        for(int j=0; j<nums.length; j++){
+            if(nums[i] == nums[j]){
+            freqCount++; 
+            }
+        }
+        if(freqCount > nums.length/2 ){
+            return nums[i];
         }
     }
-    if(freqCount > nums.length/2 ){
+        return -1;  
+      */  
+   Arrays.sort(nums);
+   int freq =1 ; 
+   int ans = nums[0];
+   for(int i=1; i<nums.length; i++){
+    if(nums[i]== nums[i-1]){
+        freq ++;
+    }else{
+        freq =1;
+        ans = nums[i];
+    }
+    if(freq > nums.length/2){
         return nums[i];
     }
- }
-   return -1;
+   }
+
+return nums[0];
     }
 }
