@@ -7,7 +7,7 @@ class Solution {
         }
         int maxFreq =0;
         int maxFreqElement = -1;
-    for(HashMap.Entry<Integer,Integer> entry :map.entrySet()){
+    for(HashMap.Entry<Integer,Integer> entry:map.entrySet()){
            if(entry.getValue()>maxFreq){
             maxFreq =entry.getValue();
         maxFreqElement=entry.getKey();
@@ -48,12 +48,12 @@ class Solution {
 return nums[0];
       */
 
-   
-          //Morre Voting algo
+//                          Expwcted  time ans Spac complxity is O(n) is O(n)
+       
           int freq =0;
           int ans =0;
           for(int i=0; i<nums.length; i++){
-            if(freq ==0){
+            if(freq == 0){
                 ans = nums[i];
             }
             if(ans == nums[i]){
