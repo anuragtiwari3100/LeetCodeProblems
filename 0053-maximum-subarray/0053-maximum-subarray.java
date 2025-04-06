@@ -10,7 +10,7 @@ class Solution {
              }
             if(hasPositive){
               currSum = currSum+arr[i];
-              if(currSum <0){
+              if(currSum < 0){
                 currSum = 0;
               }  
               maxSum = Math.max(currSum,maxSum);
