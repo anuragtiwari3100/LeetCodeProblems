@@ -8,13 +8,13 @@ class Solution {
              if(arr[i]>0){
               hasPositive = true;
              }
-            if(hasPositive){
+           
               currSum = currSum+arr[i];
               if(currSum < 0){
                 currSum = 0;
               }  
               maxSum = Math.max(currSum,maxSum);
-            }
+            
             if(!hasPositive){
               maxNegativeSum = Math.max(maxNegativeSum,arr[i]);
             }
