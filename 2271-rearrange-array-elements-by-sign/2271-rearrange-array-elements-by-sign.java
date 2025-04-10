@@ -1,5 +1,5 @@
 class Solution {
-
+/*
     public int[] rearrangeArray(int[] arr) {
        int n= arr.length;
         int pos[] = new int[n/2];
@@ -22,7 +22,7 @@ class Solution {
         }
         return arr;
     }
- 
+ */
 
  /*
  
@@ -44,6 +44,25 @@ class Solution {
           return arr;
     }
   */
-
+      public int[] rearrangeArray(int[] arr) {
+        int n = arr.length;
+         int pos_index =0;
+         int neg_index =1;
+         int resArr[] = new int[n];
+         for(int i=0; i<arr.length; i++){
+            if(arr[i]>0){
+                if(pos_index < n){
+                    resArr[pos_index]= arr[i];
+                    pos_index +=2;
+                }
+            }else{
+                if(neg_index < n){
+                    resArr[neg_index] = arr[i];
+                    neg_index += 2;
+                }
+            }
+         }
+            return resArr;
+    }
    
 }
