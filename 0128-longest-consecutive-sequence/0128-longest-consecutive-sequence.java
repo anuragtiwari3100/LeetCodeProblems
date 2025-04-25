@@ -12,10 +12,6 @@ class Solution {
          }else if(nums[i] != lastSmallest){
            count = 1;
            lastSmallest = nums[i];
-         }else{
-            if(nums[i] == lastSmallest){
-                continue;
-            }
          }
 
          largest  = Math.max(largest,count);
