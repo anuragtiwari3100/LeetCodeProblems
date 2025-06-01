@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1013-fibonacci-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
