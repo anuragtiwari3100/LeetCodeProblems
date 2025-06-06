@@ -5,8 +5,10 @@ class Solution {
     while( n > 0){
         int lastDigit = n% 10;
          revOfNum = (revOfNum * 10)+lastDigit;
+
          n = n/ 10;
     }
+ 
       return  revOfNum ==  duplicate;
     }
 }
