@@ -12,7 +12,7 @@ class Solution {
          else if(!Character.isLetterOrDigit(r)){
             right--;
          }
-         else if(Character.toLowerCase(l) != Character.toLowerCase(r)){
+         else if(Character.toLowerCase(l) !=Character.toLowerCase(r)){
            return false;
          }
          else{
