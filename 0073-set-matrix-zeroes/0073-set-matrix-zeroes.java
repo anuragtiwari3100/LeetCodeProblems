@@ -1,4 +1,6 @@
 class Solution {
+
+    
     public void setZeroes(int[][] matrix) {
         int row = matrix.length;
         int column = matrix[0].length;
@@ -14,6 +16,7 @@ class Solution {
              }
             }
         }
+        
         for(int i=0; i<row; i++){
             for(int j=0; j<column; j++){
                 if(rowArr[i] !=0 || columnArr[j] !=0){
@@ -22,4 +25,7 @@ class Solution {
             }
         }
     }
+
+
+
 }
