@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1635-number-of-good-pairs](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 | [2630-alternating-digit-sum](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2630-alternating-digit-sum) |
 ## String
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1635-number-of-good-pairs](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1635-number-of-good-pairs](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Heap (Priority Queue)
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 ## Union Find
 |  |
 | ------- |
