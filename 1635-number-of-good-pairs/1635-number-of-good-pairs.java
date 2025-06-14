@@ -1,15 +1,17 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
-        int n = nums.length;
-        int cnt =0;
-         for(int i=0; i<n; i++){
-             for(int j=i+1; j<n; j++){
-                if(nums[i] == nums[j]){
-                    cnt ++;
-                }
-             }
-           
-         }
-           return cnt;
+                
+
+
+
+         int cnt =0;
+    HashMap<Integer, Integer> freqMap =  new HashMap<>();
+    for( int num : nums){
+        if( freqMap.containsKey(num)){
+            cnt += freqMap.get(num);
+        }
+    freqMap.put(num, freqMap.getOrDefault(num, 0)+1);         
+    }
+  return  cnt;
     }
 }
