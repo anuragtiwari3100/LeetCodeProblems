@@ -3,14 +3,15 @@ class Solution {
            int res =0;
      String  str = Integer.toString(n);
      char[] ch = str.toCharArray();
-     for(int i=0; i<ch.length; i++ ){//3
+     for(int i=0; i<ch.length; i++ ){
+        int digit = Character.getNumericValue(ch[i]);
         if(i%2 ==0){
-        res =res+ Character.getNumericValue(ch[i]);
-        } else{
-             res =res - Character.getNumericValue(ch[i]);
+        res += digit;
+        }
+ else{
+            res -= digit;       
 
-        }       
-
+ }
      }
     return  res;
     }
