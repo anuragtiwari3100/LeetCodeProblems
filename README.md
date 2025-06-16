@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
