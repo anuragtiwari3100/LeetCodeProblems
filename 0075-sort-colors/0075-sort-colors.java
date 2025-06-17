@@ -1,5 +1,6 @@
 class Solution {
        
+       //apprach 1
     public void sortColors2(int[] nums) {
       int cnt0=0, cnt1=0 , cnt2=0;
           for(int i=0; i<nums.length; i++){
@@ -30,6 +31,8 @@ class Solution {
           arr[num1] = arr[num2];
           arr[num2] =  temp;
     }
+
+    //apprach2
     public void sortColors(int[] nums) {
         int n = nums.length;
      int  low =0;
