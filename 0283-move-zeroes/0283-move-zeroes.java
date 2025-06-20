@@ -1,26 +1,18 @@
 class Solution {
-    public static void swap(int arr[], int i, int j){
-        int temp = arr[i];
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
     public void moveZeroes(int[] nums) {
-        int j=-1;
-         for(int i=0; i<nums.length; i++){
-            if(nums[i] == 0){
-                j=i;
-                break;
-            }
-         }
-         for(int i=j+1; i<nums.length; i++){
-            if(j==-1){
-                return;
-            }
-            if(nums[i]!=0){
-                swap(nums,i,j);
-                j++;
-            }
-         }
         
+        int n = nums.length;
+        int j =0; // pointer for  assiging noon zero elements
+        for(int i=0; i<n; i++){
+            if(nums[i] !=0 ){
+             nums[j] = nums[i];
+              j++;
+            }
+        }
+
+        while(j<n){
+            nums[j] =0;
+            j++;
+        }
     }
 }
