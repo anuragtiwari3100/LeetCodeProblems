@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1319-unique-number-of-occurrences](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1319-unique-number-of-occurrences](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Heap (Priority Queue)
