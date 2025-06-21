@@ -18,6 +18,7 @@ class Solution {
     */
 
 
+    /**
     public int[] productExceptSelf(int[] nums) {
          int n = nums.length;
          int  prefixArr[] = new int[n];
@@ -42,5 +43,31 @@ class Solution {
        
        return ansArr;
     }
+     */
 
+
+
+
+  public int[] productExceptSelf(int[] nums) {
+ int n = nums.length;
+        
+         int  ansArr[] = new int[n];
+
+         // Fix: Initialize first element to 1
+         ansArr[0] = 1;
+
+         //Step1. Calculate Prefix
+         for(int i=1; i<n; i++){
+           ansArr[i] = ansArr[i-1]* nums[i-1];
+         }
+
+
+         //Step2. Calculate Suffix
+         int suffix =1;
+         for(int i=n-2; i>=0; i--){
+          suffix *= nums[i+1];
+          ansArr[i] *= suffix;
+  }
+  return ansArr;
+}
 }
