@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
+| [2491-smallest-even-multiple](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2491-smallest-even-multiple) |
 | [2630-alternating-digit-sum](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2630-alternating-digit-sum) |
 ## String
 |  |
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0278-first-bad-version) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
