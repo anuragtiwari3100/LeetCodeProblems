@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0041-first-missing-positive) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0125-valid-palindrome) |
