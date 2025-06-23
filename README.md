@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
+| [1206-corporate-flight-bookings](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
+| [1206-corporate-flight-bookings](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1206-corporate-flight-bookings) |
 | [1603-running-sum-of-1d-array](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
