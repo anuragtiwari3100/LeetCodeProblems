@@ -1,4 +1,6 @@
 class Solution {
+
+
     public int[] corpFlightBookings(int[][] arr, int n) {
        int ansArr[] = new int[n];
     for(int newArr[] : arr){
@@ -10,7 +12,9 @@ class Solution {
            ansArr[i] += seats;
         }
     }
-   return  ansArr;
-        
+      return  ansArr;
     }
+    
+
+
 }
