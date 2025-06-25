@@ -18,4 +18,5 @@ class Solution {
      }
      return GCD(min,max);
     }
+    
 }
