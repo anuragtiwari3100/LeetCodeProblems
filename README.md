@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1635-number-of-good-pairs) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
