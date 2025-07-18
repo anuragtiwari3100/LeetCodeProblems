@@ -1,26 +1,35 @@
 class Solution {
     public boolean checkValidString(String s) {
-        int minOpen = 0, maxOpen = 0;
+        Stack<Integer> openStack = new Stack<>();
+        Stack<Integer> starStack = new Stack<>();
 
-        for (char ch : s.toCharArray()) {
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            
             if (ch == '(') {
-                minOpen++;
-                maxOpen++;
+                openStack.push(i);
+            } else if (ch == '*') {
+                starStack.push(i);
             } else if (ch == ')') {
-                minOpen--;
-                maxOpen--;
-            } else { // '*'
-                minOpen--;    // assume * as ')'
-                maxOpen++;    // or assume * as '('
+                if (!openStack.isEmpty()) {
+                    openStack.pop();
+                } else if (!starStack.isEmpty()) {
+                    starStack.pop();
+                } else {
+                    return false;
+                }
             }
-
-            // If at any point, too many ')'
-            if (maxOpen < 0) return false;
-
-            // minOpen can't be negative
-            minOpen = Math.max(minOpen, 0);
         }
 
-        return minOpen == 0;
+        // Match any remaining '(' with '*' that comes later
+        while (!openStack.isEmpty() && !starStack.isEmpty()) {
+            if (openStack.peek() > starStack.peek()) {
+                return false;
+            }
+            openStack.pop();
+            starStack.pop();
+        }
+
+        return openStack.isEmpty();
     }
 }
