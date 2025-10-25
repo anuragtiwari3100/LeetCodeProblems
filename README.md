@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1025-minimum-cost-for-tickets) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
 | [1675-magnetic-force-between-two-balls](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/anuragtiwari3100/LeetCodeProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
